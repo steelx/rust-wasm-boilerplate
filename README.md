@@ -22,3 +22,5 @@ npm run dev
 ```bash
 npm run build
 ```
+
+cloned from `https://github.com/steelx/rust-wasm-boilerplate`
